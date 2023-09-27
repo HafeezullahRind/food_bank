@@ -1,16 +1,20 @@
 # food_bank
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The Food Bank App is a mobile application developed with Flutter that helps users discover and order special and delicious food from local food banks. This app provides a user-friendly interface for browsing food items, placing orders, and exploring various food categories.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse a wide range of food items.
+- View detailed information about each food item, including price and description.
+- Search for specific food items.
+- Add items to the cart for easy ordering.
+- Filter food items by category.
+- User-friendly and intuitive interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-![login_Signup](https://github.com/HafeezullahRind/food_bank/assets/121288207/746189ae-641d-4434-9d37-28c77b31aa1f)
+![MainPage](https://github.com/HafeezullahRind/food_bank/assets/121288207/5b2ce931-4714-4b20-aadb-b0f4bf236f29)
+![SearchList](https://github.com/HafeezullahRind/food_bank/assets/121288207/a53c8f79-59d1-4d7c-af1c-cdf191c1e5d0)
